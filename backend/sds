@@ -1,0 +1,5 @@
+# ============= CONFIGURATION =============
+DATABASE_URL = "postgresql://postgres:root@localhost:5432/project"
+GMAIL_USER = "eyesofegale@gmail.com"
+GMAIL_APP_PASSWORD = "#Pranav9881#"
+SECRET_KEY = "qnqenetyhwbruyfs"
